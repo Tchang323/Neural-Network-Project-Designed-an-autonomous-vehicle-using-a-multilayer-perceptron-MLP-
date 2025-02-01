@@ -5,15 +5,16 @@
 - 會需先等待模型訓練完成才會顯示介面
 - 使用**PyQt5**函式庫設計
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8457fb3d-8772-4b90-ab34-d11323f41e7c/d8676789-912d-4849-a36d-20d9c2c18b79/image.png)
+<img width="285" alt="image" src="https://github.com/user-attachments/assets/a81c6e10-00fe-40cf-a1a7-8e1a13951773" />
+
 
 - 車子行徑過程，會顯示前、右、左 3 個測距 sensor 測得的距離
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8457fb3d-8772-4b90-ab34-d11323f41e7c/e86a7ee0-2dff-4d7b-aa95-24e03ad3f0c6/image.png)
+<img width="289" alt="image" src="https://github.com/user-attachments/assets/1222f183-7217-4556-a66c-06f489c15fd2" />
 
 - 車子順利抵達終點
 
-![螢幕擷取畫面 2024-11-18 195944.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/8457fb3d-8772-4b90-ab34-d11323f41e7c/9bcf5e7b-896f-48fe-a02c-adbf512c0718/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2_2024-11-18_195944.png)
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/0023daec-977a-4533-a844-2dee0c2b9ea6" />
 
 ---
 
